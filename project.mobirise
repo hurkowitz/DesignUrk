@@ -1139,7 +1139,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/alstshirt-1200x750-800x500.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "ALS Suds for Science",
                 "active": false
               },
               {
@@ -1151,7 +1151,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/presentation-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Dave and Busters",
                 "active": false
               },
               {
@@ -1163,19 +1163,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/soccertshirt-1200x750-800x500.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "ChemoClothes",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallerytwinight-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallerytwinight-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Twin Night",
                 "active": false
               },
               {
@@ -1183,11 +1183,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery80s-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery80s-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "80's Party",
                 "active": false
               },
               {
@@ -1195,12 +1195,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/galleryhiphop-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/galleryhiphop-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Hip Hop",
+                "active": true
               },
               {
                 "tags": "Responsive",
