@@ -1396,7 +1396,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery2posterhaiti-1200x750-800x500.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "The Haiti Project",
                 "active": true
               },
               {
@@ -1408,7 +1408,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery2accademiaposter-1200x750-800x500.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Accademia Italiana",
                 "active": false
               }
             ]
