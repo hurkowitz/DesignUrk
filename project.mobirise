@@ -3,8 +3,8 @@
     "name": "DesignUrk.com by Hannah Linn Urkowitz",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 86,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 87,
+    "versionPublish": "4.7.1",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -698,7 +698,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#45505b\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#45505b\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qMXss5tJ0P",
           "_anchor": "gallery1-l",
           "_protectedParams": [
@@ -739,18 +739,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Agent Benefits",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -767,12 +755,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/willis-1200x750.png",
-                "thumb": "@PROJECT_PATH@/assets/images/willis-1200x750-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/galleryvmi-1200x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/galleryvmi-1200x750-800x500.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Willis Personal Lines",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
                 "tags": "Awesome",
@@ -796,7 +785,19 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Radwell VMI",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750-800x500.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Agent Benefits",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -947,18 +948,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/daveandbustersppt-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/daveandbustersppt-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Dave and Busters",
-                "active": false
-              },
-              {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1011,12 +1000,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/galleryewm-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/galleryewm-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/daveandbustersppt-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/daveandbustersppt-1200x750-800x500.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Dave and Busters",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/galleryemwdergalisemail-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/galleryemwdergalisemail-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "EWM",
-                "active": true
+                "active": true,
+                "title": ""
               }
             ]
           }
@@ -1328,54 +1330,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallerybairdandwarner-1200x750.png",
-                "thumb": "@PROJECT_PATH@/assets/images/gallerybairdandwarner-1200x750-800x500.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Baird &amp; Warner Policy Book",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/galleryvmi-1200x750.png",
-                "thumb": "@PROJECT_PATH@/assets/images/galleryvmi-1200x750-800x500.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Vendor Managed Inventory (VMI)",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery2bilboard-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery2bilboard-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Sippin By The River",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/galleryspringbreak-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/galleryspringbreak-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Spring Break",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1385,6 +1339,31 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Asset Recovery Program Cube",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/galleryassetrecoverypresskit-1200x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/galleryassetrecoverypresskit-1200x750-800x500.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Asset Recovery Press Kit",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallerybairdandwarner-1200x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gallerybairdandwarner-1200x750-800x500.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Baird &amp; Warner Policy Book",
                 "active": false
               },
               {
@@ -1400,6 +1379,19 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/galleryaboutuspresentation-1200x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/galleryaboutuspresentation-1200x750-800x500.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Vendor Managed Inventory (VMI)",
+                "active": true,
+                "title": ""
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1409,6 +1401,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Accademia Italiana",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery2bilboard-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery2bilboard-1200x750-800x500.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Sippin By The River",
                 "active": false
               }
             ]
