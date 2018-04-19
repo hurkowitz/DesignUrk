@@ -715,18 +715,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dergalis-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dergalis-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Baird &amp; Warner<br>",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -736,6 +724,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Baird &amp; Warner",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750-800x500.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Agent Benefits",
                 "active": false
               },
               {
@@ -764,16 +764,17 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dncfoodtruckgallery3-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dncfoodtruckgallery3-1200x750-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Radwell Germany",
-                "active": false
+                "caption": "Baird &amp; Warner<br>",
+                "active": true,
+                "title": ""
               },
               {
                 "tags": "Awesome",
@@ -788,18 +789,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallerydergalisascwebsite-1200x750-800x500.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Agent Benefits",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -809,8 +798,20 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Democratic National Convention",
-                "active": true,
+                "active": false,
                 "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-1200x750-800x500.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Radwell Germany",
+                "active": false
               }
             ]
           }
